@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WorkOut/static/css/main.22fdd866.css",
+    "main.js": "/WorkOut/static/js/main.efa7fe0e.js",
+    "static/js/453.81747bd6.chunk.js": "/WorkOut/static/js/453.81747bd6.chunk.js",
+    "static/media/2.jpg": "/WorkOut/static/media/2.426088bb5d6da4781ea7.jpg",
+    "index.html": "/WorkOut/index.html",
+    "main.22fdd866.css.map": "/WorkOut/static/css/main.22fdd866.css.map",
+    "main.efa7fe0e.js.map": "/WorkOut/static/js/main.efa7fe0e.js.map",
+    "453.81747bd6.chunk.js.map": "/WorkOut/static/js/453.81747bd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22fdd866.css",
+    "static/js/main.efa7fe0e.js"
+  ]
+}
